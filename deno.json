@@ -1,4 +1,0 @@
-{
-  "nodeModulesDir": "auto",
-  "imports": { "astro": "npm:astro@^4.16.7" }
-}
